@@ -1,0 +1,18 @@
+AudioFileName,SentenceIndex,SentenceText,PredictedEmotion,EmotionConfidence,IsInSummary
+blankspace.wav,0,then you.,calm,1.0,False
+blankspace.wav,1,may not.,fearful,1.0,False
+blankspace.wav,2,be.,disgust,1.0,False
+blankspace.wav,3,as.,fearful,1.0,False
+blankspace.wav,4,gimmick as get the can.,calm,1.0,False
+blankspace.wav,5,i.,angry,1.0,True
+blankspace.wav,6,guess that's.,calm,1.0,False
+blankspace.wav,7,for.,calm,1.0,False
+blankspace.wav,8,is located.,calm,1.0,False
+blankspace.wav,9,you.,calm,1.0,False
+blankspace.wav,10,can't just like a you.,calm,1.0,False
+blankspace.wav,11,and i'd.,angry,1.0,True
+blankspace.wav,12,love.,fearful,0.9999855756759644,False
+blankspace.wav,13,to.,disgust,1.0,False
+blankspace.wav,14,try them.,disgust,1.0,False
+blankspace.wav,15,die.,angry,1.0,True
+blankspace.wav,16,trying.,angry,1.0,False

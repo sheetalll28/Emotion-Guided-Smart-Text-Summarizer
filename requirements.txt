@@ -1,0 +1,9 @@
+tensorflow
+librosa
+pydub
+scikit-learn
+numpy
+pandas
+tflite_runtime
+joblib
+vosk
