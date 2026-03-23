@@ -1,4 +1,5 @@
 librosa
+plotly
 pydub
 scikit-learn
 numpy
