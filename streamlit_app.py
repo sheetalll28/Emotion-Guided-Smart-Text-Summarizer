@@ -9,6 +9,15 @@ import plotly.graph_objects as go
 import plotly.express as px
 import json
 
+import nltk
+
+@st.cache_resource
+def setup_nltk():
+    nltk.download("punkt")
+    nltk.download("punkt_tab")
+
+setup_nltk()
+
 # Suppress warnings
 logging.getLogger('pydub').setLevel(logging.WARNING)
 logging.getLogger('vosk').setLevel(logging.WARNING)
