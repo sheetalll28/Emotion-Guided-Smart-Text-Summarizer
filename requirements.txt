@@ -1,4 +1,3 @@
-tensorflow
 librosa
 pydub
 scikit-learn
