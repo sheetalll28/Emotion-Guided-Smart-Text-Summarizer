@@ -1,0 +1,17 @@
+[theme]
+primaryColor = "#667eea"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f0f4ff"
+textColor = "#000000"
+font = "sans serif"
+
+[client]
+showErrorDetails = false
+
+[logger]
+level = "error"
+
+[server]
+headless = true
+runOnSave = true
+maxUploadSize = 200
