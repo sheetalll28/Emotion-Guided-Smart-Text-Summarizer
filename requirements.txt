@@ -3,7 +3,6 @@ pydub
 scikit-learn
 numpy
 pandas
-tflite_runtime
 joblib
 vosk
 streamlit>=1.28.0
