@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🎭 Emotion-Guided Smart Text Summarizer
 
 **Transform audio into intelligent summaries driven by emotional insights**
